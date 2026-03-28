@@ -1,0 +1,1 @@
+{"name": "mitochondria-game","version": "1.0.0","description": "A game using mitochondria as a theme","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"keywords": ["game","mitochondria"],"author": "sharice000","license": "ISC","dependencies": {"express": "^4.17.1"}}
